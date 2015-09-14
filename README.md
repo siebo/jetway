@@ -16,9 +16,3 @@ python tool to manage wifi client configuration on os x.
 
     python jw.py forget NETWORKNAME
 
-## to do
-
-1. list networks
-2. change network network
-3. remove preferred
-
