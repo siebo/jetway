@@ -6,6 +6,16 @@ python tool to manage wifi client configuration on os x.
 
 ### List Networks
 
+    python jw.py list 
+
+### Join Network
+
+    python jw.py join NETWORKNAME
+
+### Forget Preferred Network
+
+    python jw.py forget NETWORKNAME
+
 ## to do
 
 1. list networks
